@@ -6,5 +6,7 @@ public class IotApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(IotApplication.class, args);
 		System.out.println("sssssssssssssssssssss");
+		System.out.println("yici ceshi");
+
 	}
 }
